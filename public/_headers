@@ -1,0 +1,16 @@
+# v13 static no-build headers
+
+/*
+  Cache-Control: no-store
+
+/index.html
+  Cache-Control: no-store
+
+/404.html
+  Cache-Control: no-store
+
+/app.js
+  Cache-Control: no-cache
+
+/style.css
+  Cache-Control: no-cache
