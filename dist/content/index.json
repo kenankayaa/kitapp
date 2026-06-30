@@ -1,0 +1,166 @@
+{
+  "site": {
+    "siteName": "Kenan Kaya",
+    "siteSubtitle": "Romanlar, karanlık sahneler ve karakterlerin içinden geçen sessiz fırtınalar.",
+    "authorName": "Kenan Kaya",
+    "logoText": "K.K.",
+    "heroTitle": "Kitaplarımın ve kişisel notlarımın sessiz odası",
+    "heroLead": "Burada yayımladığım roman taslaklarını, bölüm notlarını, karakter duyurularını ve okurlarla paylaştığım özel yazıları bulabilirsin.",
+    "heroImage": "",
+    "backgroundImage": "",
+    "aboutImage": "",
+    "loginImage": "",
+    "commentImage": "",
+    "profileImage": "",
+    "footerText": "© Kenan Kaya — Tüm hakları saklıdır.",
+    "adminEmails": [
+      "kenank4ya@gmail.com"
+    ],
+    "firebase": {
+      "apiKey": "",
+      "authDomain": "",
+      "projectId": "",
+      "storageBucket": "",
+      "messagingSenderId": "",
+      "appId": ""
+    },
+    "audio": {
+      "enableBuiltInAmbient": true,
+      "defaultTrack": "",
+      "homeTrack": "",
+      "booksTrack": "",
+      "postsTrack": "",
+      "aboutTrack": "",
+      "volume": 0.18
+    },
+    "homeWindows": [
+      {
+        "title": "Yeni Bölümler",
+        "text": "Yayımlanan ve güncellenen kitap bölümlerini buradan takip edebilirsin.",
+        "image": "",
+        "buttonText": "Kitaplara Git",
+        "buttonLink": "#/kitaplar"
+      },
+      {
+        "title": "Okur Yorumları",
+        "text": "Kitapların istediğin paragrafına yorum bırakabilir, diğer okurların notlarını görebilirsin.",
+        "image": "",
+        "buttonText": "Nasıl Çalışır?",
+        "buttonLink": "#/hakkimda"
+      },
+      {
+        "title": "Özel Paylaşımlar",
+        "text": "Sahnelerin arka planı, karakter düşünceleri ve duyurular için kişisel yazılar bölümü.",
+        "image": "",
+        "buttonText": "Paylaşımlar",
+        "buttonLink": "#/paylasimlar"
+      }
+    ],
+    "socialLinks": [
+      {
+        "label": "Instagram",
+        "url": ""
+      },
+      {
+        "label": "X / Twitter",
+        "url": ""
+      },
+      {
+        "label": "E-posta",
+        "url": "mailto:kenank4ya@gmail.com"
+      }
+    ],
+    "fonts": {
+      "bodyFont": "Inter, system-ui, sans-serif",
+      "titleFont": "Cormorant Garamond, Georgia, serif",
+      "readerFont": "Georgia, serif",
+      "baseSize": 16,
+      "readerSize": 20,
+      "lineHeight": 1.9
+    },
+    "deployment": {
+      "platform": "Cloudflare Pages",
+      "defaultDomainHint": "kenankaya.pages.dev"
+    }
+  },
+  "about": {
+    "title": "Hakkımda",
+    "subtitle": "Yazdığım dünyalar, karakterlerin suskun acılarından ve büyük düzenlerin karanlık yüzünden besleniyor.",
+    "image": "",
+    "body": "Bu site, romanlarımı ve okurlara özel paylaşımlarımı bir arada tutmak için hazırlandı. Kitap bölümlerinin içinde istediğin paragrafa yorum bırakabilir, diğer okurların bıraktığı notları okuyabilir ve yeni paylaşımları takip edebilirsin.\n\nAdmin paneli sitede görünmez. İçerikleri yalnızca doğrudan /admin/ adresinden düzenleyebilirim. Ziyaretçiler ise Google, Facebook veya e-posta ile giriş yaparak yorum yazabilir."
+  },
+  "books": [
+    {
+      "title": "U-M-U-T",
+      "slug": "u-m-u-t",
+      "subtitle": "Virüs, çipler ve Omni Mind gölgesinde hayatta kalmaya çalışan insanların hikâyesi.",
+      "status": "Devam Ediyor",
+      "category": "Bilim Kurgu / Distopya",
+      "order": 1,
+      "cover": "",
+      "heroImage": "",
+      "backgroundImage": "",
+      "detailImage": "",
+      "audioTrack": "",
+      "quote": "Fazla düzenden şüphe edeceksin.",
+      "summary": "Omni Mind'ın kurduğu tekdüze düzenin içinde Angela, Atrani ve direnişin kalanları hem virüsün hem de makinelerin baskısına karşı ayakta kalmaya çalışır.",
+      "buyLink": "",
+      "chapters": [
+        {
+          "title": "Bölüm 43 — Pis Yaratık",
+          "slug": "bolum-43-pis-yaratik",
+          "image": "",
+          "content": "Küçük kız çamaşır makinesinin arkasında dizlerini karnına çekmişti. Evdeki sessizlik, gerçek bir sessizlik değildi; duvarların içinden gelen boru uğultusu, mutfaktaki damlanın sesi ve koridordaki ağır nefesler birbirine karışıyordu.\n\nKapının ardından gelen ayak sesleri yaklaştığında nefesini tutmayı öğrendiği gibi tuttu. Acının nereden geleceğini bilmiyordu; yalnızca geleceğini biliyordu.\n\nO gün açlığı, kırık kolundan daha sessizdi. Çünkü kolu sızlıyor, açlığı ise konuşmuyordu."
+        },
+        {
+          "title": "Bölüm 44 — Küllerden Doğan Hisler",
+          "slug": "bolum-44-kullerden-dogan-hisler",
+          "image": "",
+          "content": "Metro vagonunun ışıkları ara ara titredi. Atrani başını cama yaslamış, dışarıdaki karanlık tünelin içinde kendi yansımasını görüyordu.\n\nAngela kapüşonu onun başına doğru çekti. Hareketi sert değildi; fakat aceleciydi. Sanki birini korumak için merhametin bile vakti yoktu.\n\nKalabalığın içindeki fısıltılar önce tek kelimeye, sonra aynı korkuya dönüştü: Bağışıklık."
+        }
+      ],
+      "gallery": [],
+      "__file": "umut.json"
+    },
+    {
+      "title": "Işığın Sesi",
+      "slug": "isigin-sesi",
+      "subtitle": "Savaş, iktidar ve nükleer korkunun sivillerin hayatına çöktüğü karanlık politik roman.",
+      "status": "Taslak",
+      "category": "Politik Dram / Savaş",
+      "order": 2,
+      "cover": "",
+      "heroImage": "",
+      "backgroundImage": "",
+      "detailImage": "",
+      "audioTrack": "",
+      "quote": "Bazı ışıklar, şehirleri aydınlatmaz; yalnızca külün rengini gösterir.",
+      "summary": "Gizli toplantılar, devlet aklı, gazeteciler ve savaşın gölgesinde kalan insanların hikâyesi. İlk sahneler Yunan adalarındaki lüks bir otelin kapalı toplantı odasında açılır.",
+      "buyLink": "",
+      "chapters": [
+        {
+          "title": "Bölüm 1 — Kapalı Oda",
+          "slug": "bolum-1-kapali-oda",
+          "image": "",
+          "content": "Myconian Villa Collection'ın geceye bakan camları, denizin üzerinde gümüş gibi kırılan ay ışığını içeri almıyordu. Oda özellikle kapatılmıştı; perdeler ağır, kapılar mühürlü, koridordaki görevliler sessizdi.\n\nAliza Friedman masanın başında durdu. Kimseye oturmasını söylemedi. Bakanlar ve komutanlar, lüksün ortasında birer suçlu çocuk gibi bekliyordu.\n\nOnun sesi yükseldiğinde odadaki klima uğultusu bile geri çekilmiş gibi oldu."
+        }
+      ],
+      "gallery": [],
+      "__file": "isigin-sesi.json"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Bu sitenin amacı",
+      "slug": "bu-sitenin-amaci",
+      "date": "2026-06-28T12:00:00.000Z",
+      "category": "Duyuru",
+      "coverImage": "",
+      "backgroundImage": "",
+      "audioTrack": "",
+      "excerpt": "Kitaplarımı, bölüm duyurularını ve okurlara özel kişisel notları burada paylaşacağım.",
+      "body": "Burası yalnızca kitap kapaklarının durduğu bir vitrin değil. Bölümlerin içine girip sahnelere yorum bırakabileceğin, karakterler hakkında düşüncelerini yazabileceğin ve yeni paylaşımları takip edebileceğin bir okur alanı olarak tasarlandı.\n\nGiriş yapan ziyaretçiler kitapların belirli paragraflarına yorum bırakabilir. Yorumlar sonradan değiştirilemez; yalnızca site sahibi tarafından silinebilir.",
+      "__file": "ilk-paylasim.json"
+    }
+  ]
+}

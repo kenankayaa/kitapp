@@ -1,0 +1,11 @@
+# Cloudflare Pages cache control for active site files
+/app.js
+  Cache-Control: no-cache, no-store, must-revalidate
+/style.css
+  Cache-Control: no-cache, no-store, must-revalidate
+/content/*
+  Cache-Control: no-cache, no-store, must-revalidate
+/admin/*
+  Cache-Control: no-cache, no-store, must-revalidate
+/*
+  X-Content-Type-Options: nosniff
